@@ -21,245 +21,213 @@
  */
 var questions = [
     {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+        "Success is a lousy teacher. It seduces smart people into thinking they can't lose. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "Your most unhappy customers are your greatest source of learning. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "It's fine to celebrate success but it is more important to heed the lessons of failure. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
+        "As we look ahead into the next century, leaders will be those who empower others. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
+        "If you can't make it good, at least make it look good. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
+        "Life is not fair; get used to it. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
+        "I really had a lot of dreams when I was a kid, and I think a great deal of that grew out of the fact that I had a chance to read a lot. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
+        "Technology is just a tool. In terms of getting the kids working together and motivating them, the teacher is the most important. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
+        "I believe that if you show people the problems and you show them the solutions they will be moved to act. Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
+        "If I'd had some set idea of a finish line, don't you think I would have crossed it years ago? Who said it?": [
+            "Bill Gates",
+            "Steve Jobs",
+            "Warren Buffett"
         ]
     },
     {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
+        "Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something wonderful, that's what matters to me. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
+        "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
+        "Innovation distinguishes between a leader and a follower. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
+        "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
+        "Design is not just what it looks like and feels like. Design is how it works. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
+        "It's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
+        "Sometimes life is going to hit you in the head with a brick. Don't lose faith. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
+        "I want to put a ding in the universe. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
+        "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
+        "My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time. Who said it?": [
+            "Steve Jobs",
+            "Bill Gates",
+            "Warren Buffett"
         ]
     },
     {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
+        "Price is what you pay. Value is what you get. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
+        "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
+        "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
+        "We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
+        "Someone's sitting in the shade today because someone planted a tree a long time ago. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
+        "Risk comes from not knowing what you're doing. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
+        "Rule No.1: Never lose money. Rule No.2: Never forget rule No.1. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
+        "It's better to hang out with people better than you. Pick out associates whose behavior is better than yours and you'll drift in that direction. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
+        "You only have to do a very few things right in your life so long as you don't do too many things wrong. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     },
     {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
+        "It's only when the tide goes out that you discover who's been swimming naked. Who said it?": [
+            "Warren Buffett",
+            "Bill Gates",
+            "Steve Jobs"
         ]
     }
 ];
